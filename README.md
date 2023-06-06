@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am pursuing my Ph.D. degree (2020.09 - Current) in Huazhong University of Science and Technology, Wuhan, China, under the supervision of [Prof. Weiming Shen](https://scholar.google.com/citations?hl=zh-CN&user=FuSHsx4AAAAJ). My passion lies in developing novel algorithms and techniques to improve the accuracy and efficiency of anomaly detection in complex images.
+I am pursuing my Ph.D. degree (2020.09 - Present) in Huazhong University of Science and Technology, Wuhan, China, under the supervision of [Prof. Weiming Shen](https://scholar.google.com/citations?hl=zh-CN&user=FuSHsx4AAAAJ). My passion lies in developing novel algorithms and techniques to improve the accuracy and efficiency of anomaly detection in complex images.
 - 💬 Feel free to drop me emails if you have interests.
 
 [![Yunkang Cao's github stats](https://github-readme-stats.vercel.app/api?username=caoyunkang&hide=contribs,prs&show_icons=true&theme=blueberry)](https://github.com/caoyunkang/github-readme-stats)
